@@ -1,0 +1,1 @@
+Skeleton Spring Boot Thymeleaf UI project for Employee Management.

@@ -30,8 +30,4 @@ jobs:
       - name: Build Project
         run: mvn clean package
 
-      - name: Upload JAR
-        uses: actions/upload-artifact@v4
-        with:
-          name: employee-api
-          path: target/*.jar
+      
